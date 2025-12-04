@@ -1,16 +1,25 @@
 <!-- HEADER GRAPHIC -->
 <h1 align="center">
-  ✨ Hey, I'm 
-  <span style="background: linear-gradient(90deg, #A35CFF, #00E7FF); -webkit-background-clip: text; color: transparent; font-weight: 800; text-shadow: 0px 0px 10px rgba(163,92,255,0.6);">
-    Aswathy Udayan
-  </span> ✨
+  <span style="
+    background: linear-gradient(270deg, #A35CFF, #00E7FF, #00FFA3);
+    background-size: 600% 600%;
+    animation: gradientAnimation 6s ease infinite;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: 800;
+    font-size: 45px;">
+    🌟 Aswathy Udayan 🌟
+  </span>
 </h1>
 
-<h3 align="center">AI & Automation Developer | Python Enthusiast | ML Learner</h3>
+<style>
+@keyframes gradientAnimation {
+  0% {background-position: 0% 50%;}
+  50% {background-position: 100% 50%;}
+  100% {background-position: 0% 50%;}
+}
+</style>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2500&pause=800&color=A35CFF&center=true&vCenter=true&width=500&height=60&lines=Learning+by+Building;Small+Steps%2C+Big+Dreams;Making+Tech+Think" />
-</div>
 
 ---
 
