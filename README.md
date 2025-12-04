@@ -1,98 +1,90 @@
-<div align="center">
-██ ██ ██ ██ █████ ███ ███ ████████ ██ ██ ██ ██
-██ ██ ██ ██ ██ ██ ████ ████ ██ ██ ██ ██ ██
-███████ ██ ██ ███████ ██ ████ ██ ██ ████ ██ ██
-██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██
-██ ██ ███████ ███████ ██ ██ ██ ██ ██ ██ ████
-
-</div>
+<!-- HEADER -->
+<h1 align="center">Hi, I’m <span style="color:#5A00D6;">Aswathy</span> 👋</h1>
+<p align="center">AI & Automation Enthusiast • Python Developer • Curious Learner</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=100&color=0af7d7&lines=AI%2FML+Engineer;Computer+Vision+%7C+Data+Analytics;Python+Developer" alt="Typing SVG" />
-</div>
+  
+🧠 I build smart systems that automate tasks  
+⚙️ I experiment with AI workflows & digital assistants  
+📈 I am growing my skills in ML, data & real-world intelligent solutions  
 
----
-
-## 👋 Hi, I'm **Aswathy Udayan**  
-
-🎓 B.Tech CSE (AI) | Kerala, India  
-🤖 AI/ML Engineer | 📊 Data Analyst | 🧠 Chatbot Automation
-
-I’m passionate about building **intelligent systems** that solve **real-world problems** using:
-
-- 🧠 Machine Learning & AI automation  
-- 🎥 Computer Vision (YOLO, OpenCV)  
-- 🗣 Natural Language Processing (chatbots & assistants)  
-- 📊 Data Analysis & Visualization  
-
-I enjoy turning ideas into working models that can **see**, **understand**, and **interact** autonomously! ⚙️✨
-
----
-
-## 🚀 Featured Projects
-
-| Project | Tech Stack | Impact |
-|--------|------------|--------|
-| **Traffic Violation Detection** | Python, OpenCV, YOLO, TensorFlow | Automated alerts ➜ reduces manual monitoring by **50%** |
-| **Medora – AI Healthcare Assistant** | OpenAI API, n8n, NLP | Reduced manual queries by **75%** for better patient support |
-| **Maramate Chatbot** | Dialogflow, Python | Automated **80%** of event queries, **40% more accurate** responses |
-| **Maramate Website** | HTML, CSS | 50+ daily user interactions during convention |
-
-🔗 Explore all my repositories across AI, automation & analytics ➜ *(Add repo links later)*
-
----
-
-## 🧠 Skills & Toolset
-
-##### Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-
-##### AI/ML & Data Science:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-
-##### Tools & Platforms:
-![n8n](https://img.shields.io/badge/n8n-A200FF?style=for-the-badge&logo=n8n&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Highlights
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aswathy-04&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswathy-04&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 🌱 Currently Learning
-
-- 🚦 Real-time object detection  
-- 🧩 NLP workflow automation  
-- 🚀 FastAPI for scalable AI applications  
+## ✨ My Mission
+> *“To make technology think, respond, and reduce effort — one automation at a time.”*
 
 ---
 
-## 🤝 Connect With Me
+## 🚀 Highlights So Far
+
+🔹 Created AI chatbots that automate **75–80%** of user queries  
+🔹 Workflow automation with **OpenAI API** & **n8n**  
+🔹 Exploring real-world ML use cases (small steps → big goals!)  
+🔹 Passionate about usable + meaningful AI systems
+
+> I prefer **impact over complexity** — always 😄
+
+---
+
+## 🧩 What I Work With
+
+| Category | Tools & Skills |
+|---------|----------------|
+| 👩‍💻 Languages | Python, SQL (Basics), Java (Basics) |
+| 🤖 AI + NLP | Prompt Engineering, Dialogflow, OpenAI API |
+| 🧠 Data (Learning) | Pandas, Visualization, EDA |
+| ⚙ Automation | n8n, API workflows |
+| 🛠 Tools | VS Code, GitHub, Postman, Jupyter Notebook |
+
+---
+
+## 🔧 Current Projects
+
+| Project | Status | What it does |
+|--------|--------|--------------|
+| **Medora – AI Healthcare Assistant** | ✔ Completed | Reduces manual effort by **75%** using NLP automation |
+| **Maramate Smart Assistant** | ✔ Completed | Helps users get instant event info — no waiting |
+| **Traffic Monitoring Helper** | 🚧 Learning | Using beginner-level CV + alerts to assist enforcement |
+
+*More improvements & new ideas loading… ⚡*
+
+---
+
+## 🌱 Learning Journey
+
+I'm currently exploring:
+
+- 📊 Data-driven problem solving  
+- 🧠 Practical ML model building  
+- 🔍 How machines interpret text & queries  
+- ☁️ Deploying AI workflows into the real world  
+
+> Growing step-by-step. Not rushing, but not stopping. 🌟
+
+---
+
+## 🧧 Fun Side of Me
+💡 Love solving practical problems  
+🎯 Always curious — always learning  
+🍫 Survives mostly on chocolate 😄  
+
+---
+
+## 🤝 Let’s Connect!
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aswathy-04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswathy-udayan-9b154423b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswathyudayan0062@gmail.com)
+📩 **Email:** aswathyudayan0062@gmail.com  
+🔗 **LinkedIn:** www.linkedin.com/in/aswathy-udayan-9b154423b  
+🐙 **GitHub:** github.com/Aswathy-04  
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,20&height=100&section=footer&animation=twinkling"/>
+  <sub>💜 Thanks for visiting — every star ⭐ inspires me to build more!</sub>
 </div>
 
