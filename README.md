@@ -1,11 +1,16 @@
 <!-- HEADER GRAPHIC -->
-<h1 align="center">✨ Hey, I'm <span style="color:#A35CFF;">Aswathy</span> ✨</h1>
+<h1 align="center">
+  ✨ Hey, I'm 
+  <span style="background: linear-gradient(90deg, #A35CFF, #00E7FF); -webkit-background-clip: text; color: transparent; font-weight: 800; text-shadow: 0px 0px 10px rgba(163,92,255,0.6);">
+    Aswathy Udayan
+  </span> ✨
+</h1>
+
 <h3 align="center">AI & Automation Developer | Python Enthusiast | ML Learner</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2500&pause=800&color=A35CFF&center=true&vCenter=true&width=500&height=60&lines=Learning+by+Building;Small+Steps%2C+Big+Dreams;Making+Tech+Think" />
 </div>
-
 
 ---
 
