@@ -1,17 +1,10 @@
 <!-- HEADER GRAPHIC -->
-<h1 align="center">🚀 Aswathy Udayan</h1>
-<h3 align="center">AI & Automation Enthusiast | Python Developer</h3>
+<h1 align="center">✨ Hey, I'm <span style="color:#A35CFF;">Aswathy</span> ✨</h1>
+<h3 align="center">AI & Automation Developer | Python Enthusiast | ML Learner</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20Automation-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-ML%20%26%20Data%20Analytics-00E7FF?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2500&pause=800&color=A35CFF&center=true&vCenter=true&width=500&height=60&lines=Learning+by+Building;Small+Steps%2C+Big+Dreams;Making+Tech+Think" />
 </div>
-
----
-
-<p align="center">
-  Empowering intelligence through automation ✨
-</p>
 
 
 ---
