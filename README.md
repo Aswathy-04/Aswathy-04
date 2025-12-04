@@ -1,24 +1,9 @@
 <!-- HEADER GRAPHIC -->
 <h1 align="center">
-  <span style="
-    background: linear-gradient(270deg, #A35CFF, #00E7FF, #00FFA3);
-    background-size: 600% 600%;
-    animation: gradientAnimation 6s ease infinite;
-    -webkit-background-clip: text;
-    color: transparent;
-    font-weight: 800;
-    font-size: 45px;">
-    🌟 Aswathy Udayan 🌟
-  </span>
+  👩‍💻 <span style="color:#8A2BE2; font-size: 48px; font-weight: 900; letter-spacing: 3px;">
+    ASWATHY
+  </span> 👩‍💻
 </h1>
-
-<style>
-@keyframes gradientAnimation {
-  0% {background-position: 0% 50%;}
-  50% {background-position: 100% 50%;}
-  100% {background-position: 0% 50%;}
-}
-</style>
 
 
 ---
