@@ -7,7 +7,7 @@
 <h2 align="center">✨ Empowering Intelligence Through Automation ✨</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Python+Developer;AI+%26+Automation+Enthusiast;ML+and+Data+Learner;Building+Impactful+Smart+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&height=100&lines=Python+Developer;AI%20and%20Automation%20Enthusiast;ML%20and%20Data%20Learner;Building%20Smart+Workflow+Systems" />
 </div>
 
 ---
@@ -77,8 +77,8 @@ I’m currently exploring:
 
 ## 🌈 A Little About Me
 
-🐱 Cat person  
-🍫 Chocolate > Everything  
+🐶 Dog person (dogs make everything better!)  
+🎨 Love sketching & creative art  
 💡 Problem-solver  
 ⚽ Loves teamwork  
 ✨ Dreaming big, working steady  
