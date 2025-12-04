@@ -1,10 +1,11 @@
 <!-- HEADER GRAPHIC -->
 <h1 align="center">
-  🌟 Hey, I'm
-  <span style="font-family: 'Pacifico', cursive; font-size: 42px; color:#A35CFF;">
-    Aswathy
-  </span> 🌟
+  ✨ Hey, I'm 
+  <span style="background: linear-gradient(90deg, #A35CFF, #00E7FF); -webkit-background-clip: text; color: transparent; font-weight: 800; text-shadow: 0px 0px 10px rgba(163,92,255,0.6);">
+    Aswathy Udayan
+  </span> ✨
 </h1>
+
 
 
 
