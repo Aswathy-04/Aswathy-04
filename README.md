@@ -1,9 +1,11 @@
 <!-- HEADER GRAPHIC -->
 <h1 align="center">
-  👩‍💻 <span style="color:#8A2BE2; font-size: 48px; font-weight: 900; letter-spacing: 3px;">
-    ASWATHY
-  </span> 👩‍💻
+  🌟 Hey, I'm
+  <span style="font-family: 'Pacifico', cursive; font-size: 42px; color:#A35CFF;">
+    Aswathy
+  </span> 🌟
 </h1>
+
 
 
 ---
