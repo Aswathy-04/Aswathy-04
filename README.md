@@ -1,14 +1,18 @@
 <!-- HEADER GRAPHIC -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6e00ff,100:00e5ff&text=Aswathy%20Udayan&fontSize=45&fontColor=ffffff&animation=fadeIn&height=200&desc=AI%20%26%20Automation%20Enthusiast&descAlignY=65&descAlign=50" />
-</div>
-
-<!-- TITLE -->
-<h2 align="center">✨ Empowering Intelligence Through Automation ✨</h2>
+<h1 align="center">🚀 Aswathy Udayan</h1>
+<h3 align="center">AI & Automation Enthusiast | Python Developer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&height=100&lines=Python+Developer;AI%20and%20Automation%20Enthusiast;ML%20and%20Data%20Learner;Building%20Smart+Workflow+Systems" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Automation-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-ML%20%26%20Data%20Analytics-00E7FF?style=for-the-badge" />
 </div>
+
+---
+
+<p align="center">
+  Empowering intelligence through automation ✨
+</p>
+
 
 ---
 
